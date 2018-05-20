@@ -1,0 +1,7 @@
+{
+    "token": "your discord bot token",
+    "prefix": "your bot's prefix",
+    "adminRole": "the name of the admin role",
+    "modRole": "the name of the moderator role",
+    "botOwner": "your own dev ID"
+}

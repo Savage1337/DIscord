@@ -1,0 +1,28 @@
+{
+  "name": "githubbot",
+  "version": "1.0.0",
+  "description": "A basic Discord bot public on github.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savage1337/DiscordBot.git"
+  },
+  "keywords": [
+    "DiscordBot"
+  ],
+  "author": "Savage!#1154",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Savage1337/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Savage1337/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.1",
+    "ms": "^2.1.1",
+    "nodemon": "^1.17.3"
+  }
+}
